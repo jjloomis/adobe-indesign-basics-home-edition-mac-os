@@ -4,6 +4,11 @@
 
 * [Introduction](README.md)
 
+## Installing InDesign on your Mac
+
+* [Checking if your computer meets minimum system requirements](installing-indesign-on-your-mac/checking-if-your-computer-meets-minimum-system-requirements.md)
+* [Installing InDesign](installing-indesign-on-your-mac/installing-indesign.md)
+
 ## Setting up your project
 
 * [Connecting to Your Class Folder](connecting-to-your-class-folder.md)
